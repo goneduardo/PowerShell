@@ -4,8 +4,7 @@ These script need PowerShell version 7.
 
 # Installation
 ```
-Install-Module -Name MDATP
-Install-Module -Name MSAL.PS
+Import-Module MDATP.psm1
 ```
 
 # Getting Started
