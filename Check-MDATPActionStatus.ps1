@@ -1,8 +1,3 @@
-﻿function Continue {
-
-
-
-}
 
 function Check-MDATPActionStatus {
 [CmdletBinding()]
