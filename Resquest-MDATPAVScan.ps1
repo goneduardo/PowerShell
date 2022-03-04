@@ -610,7 +610,3 @@ Function CheckStatus {
 
 
 }
-
-
-#Import-Module "C:\Program Files\WindowsPowerShell\Modules\MDATP\0.5.1\MDATP.psm1"
-#Import-Module C:\Tools\__PowerShell\msal.ps.4.2.1.1\MSAL.PS.psd1
