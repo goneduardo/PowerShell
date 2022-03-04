@@ -272,6 +272,3 @@ Function CheckStatus {
 
 
 }
-
-
-#Import-Module "C:\Program Files\WindowsPowerShell\Modules\MDATP\0.5.1\MDATP.psm1"
